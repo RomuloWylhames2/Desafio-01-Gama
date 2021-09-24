@@ -1,3 +1,6 @@
+## Você terá mais informações no final do documento.
+
+Você pode conferir o projeto em: <a href="https://distracted-wing-006c98.netlify.app/" target="_blank">Lojas Gama</a>
 # Scrum do Projeto
 
 **Projeto Lojas Gama**
@@ -27,3 +30,19 @@
 
 * Estória: Revisão e testes das funcionalidades das páginas
 * Duração: 45 minutos
+
+## Para a elaboração do projeto, utilizei:
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Bootstrap</td>
+    <td>JavaScript</td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>4.1.3</td>
+    <td>ECMAScript 2017</td>
+  </tr>
+</table>
